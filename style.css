@@ -93,6 +93,10 @@ input, select {
     vertical-align:middle;
 }
 /*MY CODE*/
+  * {
+   text-decoration: none;
+}
+
   h1 {
    font-family: "times new roman," arial;
    font-size: 40px;
@@ -121,8 +125,3 @@ input, select {
 
 body { 
  background-color: gray;
-}
-
-href {
- text-decoration: none;
-   
