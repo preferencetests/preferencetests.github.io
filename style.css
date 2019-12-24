@@ -116,6 +116,7 @@ input, select {
    line-height: 33px;
    background-color: gray;
    margin: 0px;
+   text-decoration: none;
  }
 
 body { 
