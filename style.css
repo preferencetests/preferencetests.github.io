@@ -125,3 +125,8 @@ input, select {
 
 body { 
  background-color: gray;
+}
+
+.wrapper {
+ margin: 0px auto;
+ width: 1000px;
